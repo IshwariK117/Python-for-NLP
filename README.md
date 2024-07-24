@@ -25,10 +25,6 @@ This script shows how to extract text from PDF files using Python. It utilizes l
 
 This script covers the use of regular expressions (regex) for text processing. It demonstrates how to apply regex for pattern matching, text extraction, and data cleaning in NLP projects.
 
-### stemmer_lemmatization.py
-
-A detailed exploration of stemming and lemmatization, similar to `3_stemmer_lemmatization.py`. This script provides additional examples and comparisons of different approaches to text normalization.
-
 ## Getting Started
 
 To get started with the scripts in this repository, you will need to have Python installed on your local machine along with the required libraries. Follow the steps below to set up your environment:
